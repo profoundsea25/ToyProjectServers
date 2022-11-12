@@ -1,6 +1,9 @@
 # ToyProjectServers
 토이 프로젝트 (Kotlin)
 
+## 서버 리스트
+- Main
+
 ## 연습 리스트
 - [ ] Kotlin 1.7
 - [ ] JUnit5, Mockito
